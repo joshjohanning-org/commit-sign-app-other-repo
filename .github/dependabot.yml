@@ -1,3 +1,5 @@
+# don't forget to update the max open pr limit if desired
+
 version: 2
 updates:
   - package-ecosystem: "github-actions" # See documentation for possible values
