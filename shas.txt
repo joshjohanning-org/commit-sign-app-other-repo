@@ -1,1 +1,1 @@
-$(base64 -i shas.txt)
+ZmEyM2ZmNWJhYjc4NGE0MWEwMGFmMDIwYWJhMmY5YmU3ZmE1MjRmMgo=
