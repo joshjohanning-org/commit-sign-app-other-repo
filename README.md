@@ -4,4 +4,4 @@ See the [workflow](https://github.com/joshjohanning-org/commit-sign-app/blob/mai
 
 TLDR: Have to use the trees API. See more 
 
-4f6fcec2c46d2f360818aaad7d1d7229297c8361
+ba7313b3757d7550ca7daf65ce24c5fd4d297ad3
